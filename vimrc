@@ -41,6 +41,8 @@ Plug 'nathanaelkane/vim-indent-guides'
 Plug 'tpope/vim-sensible'
 Plug 'tomtom/tcomment_vim'
 Plug 'benmills/vimux'
+Plug 'easymotion/vim-easymotion'
+Plug 'Shougo/vimshell.vim'
 
 call plug#end()
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -181,6 +183,7 @@ syntax enable
 set background=dark
 colorscheme solarized
 let g:solarized_termcolors=256
+let g:solarized_bold=0
 let g:airline_theme='hybrid'
 let g:airline#extensions#hunks#enabled=1
 " Set utf8 as standard encoding and en_US as the standard language
