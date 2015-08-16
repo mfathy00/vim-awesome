@@ -23,3 +23,8 @@ To update your plugins
 I use vim-plug you can get more information about it ==> https://github.com/junegunn/vim-plug
 
 To add more plugins ==> http://vimawesome.com/
+
+Sites you might interest look to it 
+http://vimcasts.org/
+http://ctags.sourceforge.net/
+
