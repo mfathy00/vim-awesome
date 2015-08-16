@@ -2,6 +2,7 @@
 Remove your local .vim folder and replace it with vim-awesome 
 
 ```
+cd 
 rm -rf .vim
 rm -rf .viminfo
 mv vim-awesome .vim
