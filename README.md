@@ -25,6 +25,7 @@ I use vim-plug you can get more information about it ==> https://github.com/june
 To add more plugins ==> http://vimawesome.com/
 
 Sites you might interest look to it 
-http://vimcasts.org/
-http://ctags.sourceforge.net/
+
+==> http://vimcasts.org/
+==> http://ctags.sourceforge.net/
 
