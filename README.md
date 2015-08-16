@@ -26,7 +26,7 @@ To add more plugins ==> http://vimawesome.com/
 
 Sites you might interest look to it 
 
-==> http://vimcasts.org/
+http://vimcasts.org/
 
-==> http://ctags.sourceforge.net/
+http://ctags.sourceforge.net/
 
