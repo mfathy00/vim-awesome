@@ -183,7 +183,7 @@ set background=dark
 colorscheme solarized
 let g:solarized_termcolors=256
 let g:solarized_bold=0
-let g:airline_theme='hybrid'
+let g:airline_theme='base16'
 let g:airline#extensions#hunks#enabled=1
 " Set utf8 as standard encoding and en_US as the standard language
 set encoding=utf8
