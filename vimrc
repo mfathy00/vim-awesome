@@ -42,6 +42,7 @@ Plug 'tomtom/tcomment_vim'
 Plug 'benmills/vimux'
 Plug 'easymotion/vim-easymotion'
 Plug 'Shougo/vimshell.vim'
+Plug 'Shougo/vimproc.vim'
 
 call plug#end()
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
