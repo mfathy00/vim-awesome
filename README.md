@@ -20,7 +20,7 @@ To update your plugins
 ```
 :PlugUpdate
 ```
-Note about vimproc package how to install it check ==> that http://vimawesome.com/plugin/vimproc-vim
+Note about vimproc package how to install it check that ==> http://vimawesome.com/plugin/vimproc-vim
 
 I use vim-plug you can get more information about it ==> https://github.com/junegunn/vim-plug
 
