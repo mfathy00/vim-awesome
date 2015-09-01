@@ -43,6 +43,7 @@ Plug 'benmills/vimux'
 Plug 'easymotion/vim-easymotion'
 Plug 'Shougo/vimshell.vim'
 Plug 'Shougo/vimproc.vim'
+Plug 'majutsushi/tagbar'
 
 call plug#end()
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
