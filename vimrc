@@ -34,7 +34,6 @@ Plug 'airblade/vim-gitgutter'
 Plug 'pangloss/vim-javascript'
 Plug 'tpope/vim-rails'
 Plug 'mileszs/ack.vim'
-Plug 'SirVer/ultisnips'
 Plug 'mattn/emmet-vim'
 Plug 'Shougo/neocomplcache.vim'
 Plug 'nathanaelkane/vim-indent-guides'
@@ -43,7 +42,7 @@ Plug 'tomtom/tcomment_vim'
 Plug 'benmills/vimux'
 Plug 'easymotion/vim-easymotion'
 Plug 'Shougo/vimshell.vim'
-Plug 'Shougo/vimproc.vim'
+Plug 'Shougo/vimproc.vim', {'do' : 'make'}
 Plug 'majutsushi/tagbar'
 
 call plug#end()
