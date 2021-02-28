@@ -44,6 +44,7 @@ Plug 'easymotion/vim-easymotion'
 Plug 'Shougo/vimshell.vim'
 Plug 'Shougo/vimproc.vim', {'do' : 'make'}
 Plug 'majutsushi/tagbar'
+Plug 'lifepillar/vim-solarized8'
 
 call plug#end()
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -178,7 +179,7 @@ set tm=500
 " Enable syntax highlighting
 syntax enable
 set background=dark
-colorscheme solarized
+colorscheme hybrid
 let g:solarized_termcolors=256
 let g:solarized_bold=0
 let g:airline_theme='molokai'
